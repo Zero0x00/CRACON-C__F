@@ -4,7 +4,7 @@
 <details>
   <summary> 🕮 Chapter 1: The Hidden Secrets
 
-  Dark clouds loom over the AWS wilderness, concealing the secrets of an ancient code repository.</summary>
+  Dark clouds loom over the AWS wilderness, concealing the secrets of a code repository.</summary>
   ```
   "Unveil the secrets buried in the GitHub. A journey through time may reveal the key to unlock the gates of knowledge."
   ```
