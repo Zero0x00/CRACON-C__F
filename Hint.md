@@ -58,9 +58,9 @@
 <details>
   <summary> 📜 Chapter 7: The Path of Whispers
 
-  The portal echoes with the whispers of an ancient path: /Find/file</summary>
+  The portal echoes with the whispers of an ancient file:</summary>
   ```
-  "Embark on the final leg of the journey. Decode the cryptic messages within /Find/file?file_path to reveal the coveted secrets."
+  "Embark on the final leg of the journey. Download the cryptic messages within one of most important file of aws on system to reveal the coveted secrets."
 ```
 </details>
 
